@@ -4,6 +4,6 @@
     "tokensFile": "antd-demo/src/tokens/tokens.json"
   },
   "target": {
-    "lessDir": "antd-demo/src/tokens/less"
+    "lessDir": "antd-deom/src/tokens/less"
   }
 }
