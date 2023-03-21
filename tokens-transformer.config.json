@@ -1,9 +1,9 @@
 {
   "version": 4,
   "source": {
-    "tokensFile": "ant-tokens/src/tokens/tokens.json"
+    "tokensFile": "src/tokens/tokens.json"
   },
   "target": {
-    "lessDir": "ant-tokens/src/tokens/less"
+    "lessDir": "src/tokens/less"
   }
 }
