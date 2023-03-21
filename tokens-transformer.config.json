@@ -1,9 +1,9 @@
 {
   "version": 4,
   "source": {
-    "tokensFile": "antd-demo/src/tokens/tokens.json"
+    "tokensFile": "ant-tokens/src/tokens/tokens.json"
   },
   "target": {
-    "lessDir": "antd-demo/src/tokens/less"
+    "lessDir": "ant-tokens/src/tokens/less"
   }
 }
